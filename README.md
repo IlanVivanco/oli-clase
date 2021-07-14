@@ -1,4 +1,7 @@
-# oli
+# Oli's Class
+Small personal repo for playing with my little kid after she asked for a website of her classroom.
+
+![Yay](https://media.giphy.com/media/12UlfHpF05ielO/giphy.gif)
 
 ## Build Setup
 
