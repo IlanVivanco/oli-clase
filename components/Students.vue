@@ -3,7 +3,7 @@
 		<li
 			v-for="(person, index) in students"
 			:key="person.name"
-			class="w-48 m-4"
+			class="w-2/3 md:w-48 m-4"
 		>
 			<div
 				class="

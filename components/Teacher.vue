@@ -1,5 +1,5 @@
 <template>
-	<div class="w-1/2 bg-white shadow-md rounded-lg mx-auto mb-6">
+	<div class="w-2/3 md:w-1/2 bg-white shadow-md rounded-lg mx-auto mb-6">
 		<div
 			class="
 				card
