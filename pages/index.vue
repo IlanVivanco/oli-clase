@@ -1,6 +1,15 @@
 <template>
 	<div class="container mx-auto">
-    <h1 class="text-4xl text-blue-900 text-center font-bold mb-8 uppercase uppercase">Clase de Olivia</h1>
+		<h1
+			class="
+				text-4xl text-blue-900 text-center
+				font-bold
+				mb-8
+				uppercase uppercase
+			"
+		>
+			Clase de Olivia
+		</h1>
 		<ul class="flex flex-wrap justify-center">
 			<li v-for="person in people" :key="person.name" class="w-48 m-4">
 				<div
@@ -28,9 +37,7 @@
 							<h1 class="text-lg font-semibold text-blue-900">
 								{{ person.name }}
 							</h1>
-							<p class="text-gray-500 text-sm">
-								{{ person.edad }} años
-							</p>
+							<p class="text-gray-500 text-sm">{{ person.edad }} años</p>
 						</header>
 					</div>
 				</div>
