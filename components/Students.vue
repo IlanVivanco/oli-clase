@@ -89,9 +89,9 @@ export default {
 					image: "./images/frutillita.jpg",
 				},
 				{
-					name: "Abril",
+					name: "Abril Kakaka",
 					age: "3 años",
-					image: "https://source.unsplash.com/256x256/?doll",
+					image: "./images/abril.jpg",
 				},
 				{
 					name: "Olafitite",
@@ -99,13 +99,13 @@ export default {
 					image: "./images/olafitite.jpg",
 				},
 				{
-					name: "Olafite",
+					name: "Olaf",
 					age: "3 años",
 					image: "./images/olafite.jpg",
 				},
 				{
-					name: "Olaf",
-					age: "5 años",
+					name: "Olafite",
+					age: "4 años",
 					image: "./images/olaf.jpg",
 				},
 				{
@@ -125,7 +125,7 @@ export default {
 				},
 				{
 					name: "Luni",
-					age: "8 años",
+					age: "4 años",
 					image: "./images/luni.jpg",
 				},
 				{
@@ -154,7 +154,7 @@ export default {
 					image: "./images/olivia-coco.jpg",
 				},
 				{
-					name: "Pituín",
+					name: "Jira",
 					age: "3 años",
 					image: "./images/pituin.jpg",
 				},
