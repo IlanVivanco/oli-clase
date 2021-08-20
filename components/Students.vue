@@ -145,7 +145,7 @@ export default {
 				},
 				{
 					name: "Pellegrini",
-					age: "1 años",
+					age: "1 año",
 					image: "./images/pellegrini.jpg",
 				},
 				{
@@ -159,13 +159,13 @@ export default {
 					image: "./images/pituin.jpg",
 				},
 				{
-					name: "Inca",
-					age: "9 años",
+					name: "Inca y Lili",
+					age: "9 años / 3 meses",
 					image: "./images/inca.jpg",
 				},
 				{
 					name: "Cody",
-					age: "9 años",
+					age: "3 años",
 					image: "./images/cody.jpg",
 				},
 			],
