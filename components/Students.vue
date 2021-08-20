@@ -72,11 +72,13 @@ export default {
 					name: "Le Bebé",
 					age: "1 año",
 					image: "./images/le-bebe.jpg",
+					birthday: "01/02/2020",
 				},
 				{
 					name: "Lilita",
 					age: "3 años",
 					image: "./images/lilita.jpg",
+					birthday: "02/09/2018",
 				},
 				{
 					name: "Olivia",
@@ -87,6 +89,7 @@ export default {
 					name: "Frutillita",
 					age: "2 meses",
 					image: "./images/frutillita.jpg",
+					birthday: "02/03/2016",
 				},
 				{
 					name: "Abril Kakaka",
